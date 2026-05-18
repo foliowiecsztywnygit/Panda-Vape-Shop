@@ -1,16 +1,16 @@
 {
   "translation": {
     "header": {
-      "topbar": "● FREE WORLDWIDE SHIPPING ON ORDERS OVER 250PLN",
+      "topbar": "● IN-STORE • PICKUP • DELIVERY",
       "home": "HOME",
-      "originals": "TATRAGRAIL COLLECTION",
-      "mokasynek": "MOKASYNEK",
-      "drop": "DROP"
+      "originals": "SHOP",
+      "mokasynek": "INFO",
+      "drop": "CONTACT"
     },
     "hero": {
-      "title_1": "FOR LORDS AND",
-      "title_2": "HIGHLANDERS ™",
-      "subtitle": "FREE SHIPPING FROM 250 PLN - BUY 3 ITEMS, GET 4TH FREE",
+      "title_1": "PANDA",
+      "title_2": "VAPE SHOP",
+      "subtitle": "E-CIGARETTES • E-LIQUIDS • ACCESSORIES • CHINESE MARKET",
       "cta": "SHOP NOW"
     },
     "pdp": {
@@ -38,7 +38,7 @@
       "accordion_shipping": "SHIPPING & RETURNS"
     },
     "footer": {
-      "statement": "STERILE AESTHETICS. HIGH FASHION STREETWEAR. NO COMPROMISES. DESIGNED FOR THE AVANT-GARDE.",
+      "statement": "PANDA Vape Shop — e-cigarettes and accessories in Warsaw + Chinese Market. Wąwozowa 36/65, 02-796 Warsaw.",
       "info_title": "INFO",
       "links": {
         "shipping": "SHIPPING & RETURNS",
@@ -50,7 +50,7 @@
         "title": "NEWSLETTER",
         "placeholder": "ENTER YOUR EMAIL"
       },
-      "copyright": "© 2026 TATRAGRAIL. ALL RIGHTS RESERVED."
+      "copyright": "© 2026 PANDA Vape Shop. All rights reserved."
     }
   }
 }

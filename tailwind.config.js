@@ -13,9 +13,22 @@ export default {
         montserrat: ['"Montserrat"', 'sans-serif'],
       },
       colors: {
+        ink: '#0B0F12',
+        paper: '#FFFFFF',
+        accent: {
+          deep: '#14532D',
+          cyan: '#22C55E',
+          tertiary: '#A3E635',
+        },
         brand: {
           dark: '#111111',
         }
+      },
+      backgroundImage: {
+        'accent-gradient': 'linear-gradient(135deg, #14532D 0%, #22C55E 100%)',
+      },
+      boxShadow: {
+        'cyan-glow': '0 0 0 1px rgba(34,197,94,0.22), 0 0 28px rgba(34,197,94,0.18)',
       },
       fontSize: {
         'fluid-xs': 'clamp(0.65rem, 0.5vw + 0.5rem, 0.8rem)',

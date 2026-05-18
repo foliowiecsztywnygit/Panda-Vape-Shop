@@ -1,17 +1,17 @@
 {
   "translation": {
     "header": {
-      "topbar": "● DARMOWE DOSTAWY DO CAŁEJ POLSKI POWYŻEJ 250PLN",
+      "topbar": "● ZAKUPY STACJONARNE • ODBIÓR • DOSTAWA",
       "home": "HOME",
-      "originals": "KOLEKCJA TATRAGRAIL",
-      "mokasynek": "MOKASYNEK",
-      "drop": "DROP"
+      "originals": "SKLEP",
+      "mokasynek": "INFO",
+      "drop": "KONTAKT"
     },
     "hero": {
-      "title_1": "DLO PANECKÓW I",
-      "title_2": "DLO NASYCH ™",
-      "subtitle": "DARMOWA DOSTAWA OD 250 PLN - KUP 3 RZECZY, 4 DOSTANIESZ GRATIS",
-      "cta": "KUP TERAZ"
+      "title_1": "PANDA",
+      "title_2": "VAPE SHOP",
+      "subtitle": "E-PAPIEROSY • LIQUIDY • AKCESORIA • CHINESE MARKET",
+      "cta": "ZOBACZ SKLEP"
     },
     "pdp": {
       "social_proof": "{{count}} OSÓB KUPIŁO TEN PRODUKT W TYM TYGODNIU",
@@ -37,7 +37,7 @@
       "accordion_shipping": "WYSYŁKA I ZWROTY"
     },
     "footer": {
-      "statement": "STERILE AESTHETICS. HIGH FASHION STREETWEAR. NO COMPROMISES. DESIGNED FOR THE AVANT-GARDE.",
+      "statement": "PANDA Vape Shop — e-papierosy i akcesoria w Warszawie + Chinese Market. Wąwozowa 36/65, 02-796 Warszawa.",
       "info_title": "INFO",
       "links": {
         "shipping": "WYSYŁKA I ZWROTY",
@@ -49,7 +49,7 @@
         "title": "NEWSLETTER",
         "placeholder": "WPISZ SWÓJ EMAIL"
       },
-      "copyright": "© 2026 TATRAGRAIL. WSZELKIE PRAWA ZASTRZEŻONE."
+      "copyright": "© 2026 PANDA Vape Shop. Wszelkie prawa zastrzeżone."
     }
   }
 }
