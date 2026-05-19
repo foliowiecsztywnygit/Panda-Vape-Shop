@@ -1,4 +1,7 @@
-export const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000'
+const explicitApiUrl = import.meta.env.VITE_API_URL
+const isDev = import.meta.env.DEV
+
+export const API_URL = explicitApiUrl ? explicitApiUrl : isDev ? 'http://localhost:3000' : ''
 
 export async function apiFetch(path, options) {
   const res = await fetch(`${API_URL}${path}`, options)
@@ -10,4 +13,3 @@ export async function apiFetch(path, options) {
   }
   return data
 }
-

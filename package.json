@@ -8,6 +8,8 @@
     "dev": "concurrently \"vite\" \"nodemon server/index.js\"",
     "dev:frontend": "vite",
     "dev:backend": "nodemon server/index.js",
+    "postinstall": "prisma generate",
+    "start": "node server/index.js",
     "db:generate": "prisma generate",
     "db:push": "prisma db push",
     "db:studio": "prisma studio",
